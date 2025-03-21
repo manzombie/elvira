@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "elvira",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6ccbd12b-dac9-47a6-ac5e-41146171aadc",
+      "database_name": "elvira-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
